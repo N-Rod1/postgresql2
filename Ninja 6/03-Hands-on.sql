@@ -1,0 +1,1 @@
+SELECT pfirstname || ' ' || plastname As "FULL NAME" FROM people ORDER BY plastname ASC;

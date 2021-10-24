@@ -1,0 +1,1 @@
+SELECT DISTINcT pcity FROM people;
